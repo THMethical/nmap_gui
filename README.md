@@ -6,4 +6,4 @@ The tool is a GUI application that performs Nmap scans with various options and 
 
 
 
-![nmap_gui](https://user-images.githubusercontent.com/128103079/226216263-88784e65-dde0-4698-8df7-516e6827bfd5.jpg)
+![nmap_gui](https://user-images.githubusercontent.com/128103079/226216558-e2049190-1f52-4fdc-bdbf-cd5eb61d409d.jpg)
